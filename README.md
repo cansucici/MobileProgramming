@@ -1,4 +1,4 @@
 # MobileProgramming
 MobileFinalAssignment
 
-Eskişehir Teknik Üniversitesi Bilgisayar Mühendisliği lisans bitirme projemdir.
+Eskişehir Teknik Üniversitesi Bilgisayar Mühendisliği Mobbil Programlama dersi projemdir.
